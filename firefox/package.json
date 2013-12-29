@@ -1,9 +1,9 @@
 {
-  "name": "Unblock Youku",
+  "name": "unblock_youku",
   "title": "Unblock Youku for Firefox",
   "id": "ubu-fx",
   "description": "A firefox extension inspired by unblock youku chrome",
   "author": "pkufashuo400",
   "license": "APGL v3",
-  "version": "0.1"
+  "version": "2.6.0.0"
 }

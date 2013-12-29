@@ -208,6 +208,6 @@ function urls2regexs(url_list) {
 
 
 // also export as a node.js module
-var exports = exports || {};
+//var exports = exports || {};
 exports.url_list = unblock_youku.common_urls.concat(unblock_youku.server_extra_urls);
 exports.url_regex_list = urls2regexs(exports.url_list);
